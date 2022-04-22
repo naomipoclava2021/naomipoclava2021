@@ -29,10 +29,11 @@ System.out.println("Argentina - Salta, Capital");
 # Estudios Universidad Nacional de Salta
 ## 1000Programadores - PYTHON <a href="https://moodlerec.unsa.edu.ar/course/view.php?id=324" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/95596561/164779716-a30060dc-9a1d-49a7-bd59-d137b7403474.jpg" alt="bootstrap" width="35" height="35"/> </a>
 
-## 1000Programadores Salteños - JAVA <a href="https://moodlerec.unsa.edu.ar/course/view.php?id=325" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/95596561/164314498-01516591-7cf1-4bc6-ada2-38b5d1409b54.png" alt="bootstrap" width="35" height="35"/> </a>
-
 [Certificado: curso de "Introducción a la
 Programación en Python" del Proyecto 1000 Programadores Salteños ](https://drive.google.com/drive/folders/1YF3C3FjOf9_HMze4rnlqPxAI2rrug_Zm)
+
+## 1000Programadores Salteños - JAVA <a href="https://moodlerec.unsa.edu.ar/course/view.php?id=325" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/95596561/164314498-01516591-7cf1-4bc6-ada2-38b5d1409b54.png" alt="bootstrap" width="35" height="35"/> </a>
+[JAVA_UNSA](https://github.com/naomipoclava2021/JAVA_UNSA)
 
 
 ```javascript
