@@ -9,7 +9,7 @@ System.out.println("Argentina - Salta, Capital");
 <p align="left"> <a href="https://twitter.com/naomipoclava" target="blank"><img src="https://img.shields.io/twitter/follow/naomipoclava?logo=twitter&style=for-the-badge" alt="naomipoclava" /></a> </p>
 
 # Lenguaje de Programacion 
-<img flex="center" align="right" width="290px" height="390px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img flex="center" align="right" width="40%" height="390px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomipoclava2021&layout=compact&theme=dracula)](https://github.com/naomipoclava2021?tab=repositories)
 
@@ -34,6 +34,18 @@ Programación en Python" del Proyecto 1000 Programadores Salteños ](https://dri
 
 ## 1000Programadores Salteños - JAVA <a href="https://moodlerec.unsa.edu.ar/course/view.php?id=325" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/95596561/164314498-01516591-7cf1-4bc6-ada2-38b5d1409b54.png" alt="bootstrap" width="35" height="35"/> </a>
 [JAVA_UNSA](https://github.com/naomipoclava2021/JAVA_UNSA)
+
+## Introduccion al Desarrolo Web Unsa
+Es un curso de 2 meses - 1 vez a la semana, donde aprenderemos tres tecnologias para el Frontend de una Pagina Web, HTML, CSS, JAVASCRIPT. Con Ayuda Boostrap haremos que nuestra web se adpten a distintos dispositivos haciendola responsive y finalmente le daremos algunas funcionalidades con javascript.
+* HTML (Escribiremos el contenido y le daremos una estructura adecuada)
+* CSS (Diseño y organizacion de como deberia verse la pagina)
+* JS (Funcionalidades y vida a nuestra pagina)
+
+El proyecto que Final que voy hacer es un porfolio, en la barra de navegacion habran varias secciones como Sobre Mi, Galeria,Formulario,Proyectos y Contacto.
+* [Aula Virtual](https://exavirtual.unsa.edu.ar/course/search.php?areaids=core_course-course&q=Introducci%C3%B3n+al+Desarrollo+Web)
+* [Repositorio](https://github.com/naomipoclava2021/unsa-desarrollo-web)
+* [Pagina Web](https://naomipoclava2021.github.io/unsa-desarrollo-web/)
+
 
 
 ```javascript
