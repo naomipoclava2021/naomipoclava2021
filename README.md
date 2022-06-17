@@ -35,6 +35,25 @@ Programación en Python" del Proyecto 1000 Programadores Salteños ](https://dri
 
 ## 1000Programadores Salteños - JAVA <a href="https://moodlerec.unsa.edu.ar/course/view.php?id=325" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/95596561/164314498-01516591-7cf1-4bc6-ada2-38b5d1409b54.png" alt="bootstrap" width="35" height="35"/> </a>
 [JAVA_UNSA](https://github.com/naomipoclava2021/JAVA_UNSA)
+>Proyecto Final
+
+### Cinemark
+
+***Gestión de boletos y Salas de un cine
+Junio 2022***
+
+En este proyecto usamos github para trabajar en equipo y compartir código . El programa se realizará en Java y usaremos como base de datos MySQL. Esperamos que el usuario se registre, inicie sesión, compre un boleto y que se le asigne una sala.
+
+* [Repositorio](https://github.com/Eramirez155/cinemar_CM3_JAVA)
+
+>Herramientas Para Trabajar en equipo
+
+* Trello
+* GitHub
+* lucidchart
+* Discord y WhatApp
+
+
 
 ## Introduccion al Desarrolo Web Unsa
 Es un curso de 2 meses - 1 vez a la semana, donde aprenderemos tres tecnologias para el Frontend de una Pagina Web, HTML, CSS, JAVASCRIPT. Con Ayuda Boostrap haremos que nuestra web se adpten a distintos dispositivos haciendola responsive y finalmente le daremos algunas funcionalidades con javascript.
@@ -42,6 +61,9 @@ Es un curso de 2 meses - 1 vez a la semana, donde aprenderemos tres tecnologias 
 * CSS (Diseño y organizacion de como deberia verse la pagina)
 * JS (Funcionalidades y vida a nuestra pagina)
 
+>Proyecto Final
+
+### Profolio
 El proyecto que Final que voy hacer es un porfolio, en la barra de navegacion habran varias secciones como Sobre Mi, Galeria,Formulario,Proyectos y Contacto.
 * [Aula Virtual](https://exavirtual.unsa.edu.ar/course/search.php?areaids=core_course-course&q=Introducci%C3%B3n+al+Desarrollo+Web)
 * [Repositorio](https://github.com/naomipoclava2021/unsa-desarrollo-web)
