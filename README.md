@@ -63,7 +63,7 @@ Es un curso de 2 meses - 1 vez a la semana, donde aprenderemos tres tecnologias 
 
 >Proyecto Final
 
-### Profolio
+### Portfolio
 El proyecto que Final que voy hacer es un porfolio, en la barra de navegacion habran varias secciones como Sobre Mi, Galeria,Formulario,Proyectos y Contacto.
 * [Aula Virtual](https://exavirtual.unsa.edu.ar/course/search.php?areaids=core_course-course&q=Introducci%C3%B3n+al+Desarrollo+Web)
 * [Repositorio](https://github.com/naomipoclava2021/unsa-desarrollo-web)
